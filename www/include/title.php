@@ -1,0 +1,1 @@
+<title>  سیستم مدیریت |<?php echo $title?></title>
